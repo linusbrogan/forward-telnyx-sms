@@ -1,0 +1,5 @@
+# Wrangler development secrets
+.dev.vars
+
+# Installed packages
+node_modules

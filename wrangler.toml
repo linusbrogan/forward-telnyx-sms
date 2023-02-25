@@ -1,0 +1,9 @@
+name = "forward-telnyx-sms"
+main = "src/main.js"
+compatibility_date = "2023-02-25"
+
+[vars]
+# Define environment variables here or as secrets:
+# - RECIPIENT_PHONE_NUMBER (to receive forwarded messages)
+# - TELNYX_API_KEY (from the Mission Control Portal)
+# - TELNYX_PUBLIC_KEY (from the Mission Control Portal)
